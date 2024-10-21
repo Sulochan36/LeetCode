@@ -23,6 +23,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sulochan36/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sulochan36/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sulochan36/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
@@ -53,10 +54,20 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
