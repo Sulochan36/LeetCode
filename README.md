@@ -21,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sulochan36/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sulochan36/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sulochan36/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sulochan36/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -63,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sulochan36/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sulochan36/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
