@@ -18,6 +18,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sulochan36/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Sulochan36/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
