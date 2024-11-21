@@ -72,6 +72,7 @@
 | [0049-group-anagrams](https://github.com/Sulochan36/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/Sulochan36/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Sulochan36/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
