@@ -31,6 +31,7 @@
 | [0205-isomorphic-strings](https://github.com/Sulochan36/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
+| [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Sulochan36/LeetCode/tree/master/0792-binary-search) |
+| [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,12 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sulochan36/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sulochan36/LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Sulochan36/LeetCode/tree/master/0792-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
