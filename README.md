@@ -48,6 +48,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Sulochan36/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Sulochan36/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sulochan36/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sulochan36/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Design
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sulochan36/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sulochan36/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sulochan36/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Sulochan36/LeetCode/tree/master/0890-lemonade-change) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sulochan36/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
 |  |
 | ------- |
