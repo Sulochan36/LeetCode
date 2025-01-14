@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0890-lemonade-change](https://github.com/Sulochan36/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sulochan36/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sulochan36/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
