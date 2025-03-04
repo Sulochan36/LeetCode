@@ -87,6 +87,7 @@
 | [0049-group-anagrams](https://github.com/Sulochan36/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/Sulochan36/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Sulochan36/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Sulochan36/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -138,6 +139,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Sulochan36/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Sulochan36/LeetCode/tree/master/0890-lemonade-change) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sulochan36/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
