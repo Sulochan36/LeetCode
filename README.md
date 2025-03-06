@@ -96,6 +96,7 @@
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sulochan36/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Sulochan36/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Sulochan36/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Sulochan36/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Sulochan36/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sulochan36/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Sulochan36/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sulochan36/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
