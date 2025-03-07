@@ -46,6 +46,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Sulochan36/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/Sulochan36/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sulochan36/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sulochan36/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/Sulochan36/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sulochan36/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Sorting
 |  |
