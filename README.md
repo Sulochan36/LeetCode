@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/Sulochan36/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -104,6 +105,7 @@
 | [0890-lemonade-change](https://github.com/Sulochan36/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sulochan36/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/Sulochan36/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sulochan36/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
