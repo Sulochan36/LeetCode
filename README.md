@@ -37,6 +37,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sulochan36/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sulochan36/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Sulochan36/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sulochan36/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sulochan36/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -216,4 +218,12 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sulochan36/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
