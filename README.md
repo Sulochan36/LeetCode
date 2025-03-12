@@ -13,6 +13,7 @@
 | [0141-linked-list-cycle](https://github.com/Sulochan36/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sulochan36/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sulochan36/LeetCode/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sulochan36/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Sulochan36/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sulochan36/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
