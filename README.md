@@ -71,6 +71,7 @@
 | [0496-next-greater-element-i](https://github.com/Sulochan36/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sulochan36/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Sulochan36/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Sulochan36/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Sulochan36/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Sulochan36/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Sulochan36/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/Sulochan36/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/Sulochan36/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
