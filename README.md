@@ -23,6 +23,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Sulochan36/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sulochan36/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sulochan36/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Sulochan36/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sulochan36/LeetCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Sulochan36/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
