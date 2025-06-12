@@ -140,6 +140,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sulochan36/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sulochan36/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sulochan36/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Divide and Conquer
 |  |
 | ------- |
