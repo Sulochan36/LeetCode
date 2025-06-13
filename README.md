@@ -156,6 +156,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Sulochan36/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sulochan36/LeetCode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/Sulochan36/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
