@@ -118,6 +118,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sulochan36/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sulochan36/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sulochan36/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Sulochan36/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sulochan36/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Sulochan36/LeetCode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Sulochan36/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
