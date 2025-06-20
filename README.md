@@ -119,6 +119,7 @@
 | [0035-search-insert-position](https://github.com/Sulochan36/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sulochan36/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Sulochan36/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Sulochan36/LeetCode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
@@ -257,6 +258,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sulochan36/LeetCode/tree/master/0078-subsets) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sulochan36/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sulochan36/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sulochan36/LeetCode/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sulochan36/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
