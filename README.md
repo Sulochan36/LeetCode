@@ -9,6 +9,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sulochan36/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sulochan36/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sulochan36/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sulochan36/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -20,6 +21,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sulochan36/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sulochan36/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sulochan36/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sulochan36/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -174,6 +176,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sulochan36/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sulochan36/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sulochan36/LeetCode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
