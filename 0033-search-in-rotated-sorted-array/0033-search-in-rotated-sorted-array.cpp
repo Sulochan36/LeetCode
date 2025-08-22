@@ -1,43 +1,27 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-        int n =nums.size();
-        int l1 = 0;
-        int h1 = max_element(nums.begin(),nums.end())-nums.begin();
-        int l2 =h1+1;
-        int h2 = n-1;
-        int ans = -1;
+    int low = 0, high = nums.size() - 1;
+    while(low <= high){
+        int mid = (low + high) / 2;
+        if(nums[mid] == target) return mid;
 
-        if(target<nums[l1]){
-            while(l2<=h2){
-                int mid = (l2+h2)/2;
-                if(nums[mid]==target){
-                    return mid;
-                }
-                else if(target>nums[mid]){
-                    l2=mid+1;
-                }
-                else{
-                    h2 =mid-1;
-                }
-            }
+        // Left part is sorted
+        if(nums[low] <= nums[mid]){
+            if(nums[low] <= target && target < nums[mid])
+                high = mid - 1;
+            else
+                low = mid + 1;
         }
+        // Right part is sorted
         else{
-            while(l1<=h1){
-                int mid = (l1+h1)/2;
-                if(nums[mid]==target){
-                    return mid;
-                }
-                else if(target>nums[mid]){
-                    l1=mid+1;
-                }
-                else{
-                    h1 =mid-1;
-                }
-            }
+            if(nums[mid] < target && target <= nums[high])
+                low = mid + 1;
+            else
+                high = mid - 1;
         }
-
-        return ans;
-
     }
+    return -1;
+}
+
 };
