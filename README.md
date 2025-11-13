@@ -172,6 +172,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sulochan36/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Sulochan36/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2058-concatenation-of-array](https://github.com/Sulochan36/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sulochan36/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -315,6 +316,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sulochan36/LeetCode/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/Sulochan36/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Sulochan36/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
