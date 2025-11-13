@@ -170,6 +170,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Sulochan36/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sulochan36/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/Sulochan36/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Sulochan36/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/Sulochan36/LeetCode/tree/master/2058-concatenation-of-array) |
