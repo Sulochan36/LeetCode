@@ -53,6 +53,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Sulochan36/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sulochan36/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sulochan36/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -135,6 +136,7 @@
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Sulochan36/LeetCode/tree/master/0645-set-mismatch) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sulochan36/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sulochan36/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Array
@@ -173,6 +175,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Sulochan36/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Sulochan36/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sulochan36/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sulochan36/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Sulochan36/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -334,4 +337,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Sulochan36/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Sulochan36/LeetCode/tree/master/0078-subsets) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sulochan36/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
