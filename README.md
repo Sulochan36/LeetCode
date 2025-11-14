@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Sulochan36/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Sulochan36/LeetCode/tree/master/0645-set-mismatch) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Sulochan36/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -133,6 +134,7 @@
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Sulochan36/LeetCode/tree/master/0645-set-mismatch) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sulochan36/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Array
@@ -162,6 +164,7 @@
 | [0496-next-greater-element-i](https://github.com/Sulochan36/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Sulochan36/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sulochan36/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Sulochan36/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Sulochan36/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Sulochan36/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Sulochan36/LeetCode/tree/master/0792-binary-search) |
@@ -303,6 +306,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sulochan36/LeetCode/tree/master/0078-subsets) |
+| [0645-set-mismatch](https://github.com/Sulochan36/LeetCode/tree/master/0645-set-mismatch) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sulochan36/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sulochan36/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
