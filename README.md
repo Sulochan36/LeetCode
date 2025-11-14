@@ -48,6 +48,7 @@
 | [0205-isomorphic-strings](https://github.com/Sulochan36/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sulochan36/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sulochan36/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Sulochan36/LeetCode/tree/master/0645-set-mismatch) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -162,6 +163,7 @@
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sulochan36/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sulochan36/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sulochan36/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sulochan36/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Sulochan36/LeetCode/tree/master/0605-can-place-flowers) |
