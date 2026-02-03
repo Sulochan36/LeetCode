@@ -137,6 +137,7 @@
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sulochan36/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Sulochan36/LeetCode/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/Sulochan36/LeetCode/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sulochan36/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Sulochan36/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -163,6 +164,7 @@
 | [0169-majority-element](https://github.com/Sulochan36/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sulochan36/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sulochan36/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Sulochan36/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sulochan36/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sulochan36/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -345,5 +347,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Sulochan36/LeetCode/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sulochan36/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
