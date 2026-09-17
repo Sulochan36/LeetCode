@@ -356,4 +356,8 @@
 | ------- |
 | [0274-h-index](https://github.com/Sulochan36/LeetCode/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sulochan36/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sulochan36/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
