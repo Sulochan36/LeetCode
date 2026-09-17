@@ -29,11 +29,11 @@ public:
             }
         }
 
-        if(temp1){
-            temp->next=temp1;
+        if(temp2){
+            temp->next=temp2;
         }
         else{
-            temp->next=temp2;
+            temp->next=temp1;
         }
 
     return dummy->next;
