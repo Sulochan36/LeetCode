@@ -82,6 +82,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sulochan36/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sulochan36/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sulochan36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Sulochan36/LeetCode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sulochan36/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Sulochan36/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -175,6 +176,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sulochan36/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sulochan36/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Sulochan36/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sulochan36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sulochan36/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sulochan36/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sulochan36/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -242,6 +244,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sulochan36/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sulochan36/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sulochan36/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Sulochan36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Sulochan36/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Sulochan36/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sulochan36/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -332,6 +335,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sulochan36/LeetCode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Sulochan36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Sulochan36/LeetCode/tree/master/0645-set-mismatch) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sulochan36/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -369,6 +373,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sulochan36/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Sulochan36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -381,4 +386,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sulochan36/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sulochan36/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
