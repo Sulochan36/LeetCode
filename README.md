@@ -61,6 +61,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/Sulochan36/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sulochan36/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sulochan36/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -202,6 +203,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Sulochan36/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/Sulochan36/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sulochan36/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sulochan36/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sulochan36/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sulochan36/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sulochan36/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -260,6 +262,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Sulochan36/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sulochan36/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sulochan36/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sulochan36/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
