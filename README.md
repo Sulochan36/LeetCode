@@ -167,6 +167,7 @@
 | [0066-plus-one](https://github.com/Sulochan36/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Sulochan36/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sulochan36/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sulochan36/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sulochan36/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sulochan36/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sulochan36/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -229,6 +230,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sulochan36/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Sulochan36/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Sulochan36/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
